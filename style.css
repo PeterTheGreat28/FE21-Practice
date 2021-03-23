@@ -1,0 +1,49 @@
+.height {
+    min-height: 400px;
+}
+
+.badge {
+    border-radius: 50%;
+}
+
+.btn-own {
+    all: unset;
+}
+
+.card-btm {
+    position: absolute;
+    bottom: 0.5em; 
+    margin-top: 2em;
+    font-size: 1.3em;
+}
+
+.header {
+    text-align: center; 
+
+    background-image: url(img/Movie\ Banner.jpg);
+    padding: 1.5em;
+}
+
+.header h1{
+    font-size:6.5rem;
+    color:white;
+    margin: 0.3em;
+}
+
+body {
+    background-color: grey;
+}
+
+.center {
+    text-align: center;
+    color: white;
+    margin: 0.3em;
+}
+
+.btm {
+    text-align: center;
+}
+
+.bg-own {
+    background-color: rgb(242, 253, 138);
+}

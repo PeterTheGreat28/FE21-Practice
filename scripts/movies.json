@@ -1,0 +1,75 @@
+let movies = `[
+  
+  {
+  "movieName": "Shawshank Redemption",
+  "image": "img/shawshankredemption.jpg",
+  "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+  "likes": 3,
+  "length": "2h 22min",
+  "genre": "Drama",
+  "release": "14 October 1994",
+  "trailer": "" 
+
+}, {
+  "movieName": "The Godfather",
+  "image": "img/TheGodFather.jpg",
+  "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+  "likes": 5,
+  "length": "2h 55min",
+  "genre": "Crime, Drama",
+  "release": "24 March 1972",
+  "trailer": "" 
+   
+}, {
+  "movieName": "The Godfather: Part II",
+  "image": "img/TheGodFatherII.jpg",
+  "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+  "likes": 5,
+  "length": "3h 22min",
+  "genre": "Crime, Drama",
+  "release": "18 December 1974",
+  "trailer": "" 
+    
+}, {
+  "movieName": "The Good, the Bad and the Ugly",
+  "image": "img/GBU.jpg",
+  "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+  "likes": 5,
+  "length": "2h 58min",
+  "genre": "Western",
+  "release": "29 December 1967",
+  "trailer": "" 
+      
+}, {
+  "movieName": "Pulp Fiction",
+  "image": "img/PulpFiction.jpg",
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "likes": 5,
+  "length": "2h 34min",
+  "genre": "Crime, Drama",
+  "release": "14 October 1994",
+  "trailer": "" 
+          
+}, {
+  "movieName": "Schindler's List",
+  "image": "img/SchindlersList.jpg",
+  "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+  "likes": 5,
+  "length": "3h 15min",
+  "genre": "Biography, Drama, History",
+  "release": "4 February 1994",
+  "trailer": "" 
+          
+},{
+  "movieName": "12 Angry Men",
+  "image": "img/12angrymen.jpg",
+  "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+  "likes": 5,
+  "length": "1h 36min",
+  "genre": "Crime, Drama",
+  "release": "10 April 1957",
+  "trailer": "" 
+  }
+]`
+
+              
